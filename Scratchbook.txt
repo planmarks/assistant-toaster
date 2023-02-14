@@ -1,0 +1,15 @@
+# Add translation feature
+	EST & RUS voice recognition
+	EST & RUS note taking
+
+# Add calendar features - comCal
+	What's happening today and tomorrow
+	Add a new entry
+
+
+# Add a chatbot module - comChat
+
+# Add learning module *feed it philosophical content
+
+# Add randomised responses "would you like anything else" after task completions
+
